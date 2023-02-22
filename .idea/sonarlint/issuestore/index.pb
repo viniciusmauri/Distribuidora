@@ -1,7 +1,4 @@
 
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 U
 %.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
 8
@@ -16,9 +13,5 @@ p
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 p
 @src/main/java/br/com/mvsmtech/controllers/ProdutoController.java,3\b\3b0a83c0927b7847ed0497736d74200525bdc62f
-h
-8src/main/java/br/com/mvsmtech/domain/dto/ProdutoDTO.java,7\6\76a1d1497d09fe7ef18e807daadc226165b6ad29
 j
 :src/main/java/br/com/mvsmtech/services/ProdutoService.java,c\c\cc1880a09048d880465f471560c4862ffc3638b5
-g
-7src/main/java/br/com/mvsmtech/domain/model/Produto.java,d\a\dadf2e85dd950a59972830fa616f622e87c42c05
