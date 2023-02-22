@@ -1,0 +1,5 @@
+br\com\mvsmtech\DistribuidoraApplication.class
+br\com\mvsmtech\domain\dto\ProdutoDTO.class
+br\com\mvsmtech\controllers\ProdutoController.class
+br\com\mvsmtech\domain\model\Produto.class
+br\com\mvsmtech\services\ProdutoService.class
