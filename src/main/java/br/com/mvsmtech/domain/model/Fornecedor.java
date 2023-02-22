@@ -13,26 +13,20 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-@Data
 @Entity
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Table(name = "t_produto", schema="public")
-@Cacheable(value = true)
 @EqualsAndHashCode(callSuper = false)
-public class Produto {
+@Cacheable(value = true)
+@Table(name = "t_fornecedor")
+public class Fornecedor {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     @Column(name = "id", nullable = false)
     private Long id;
 
-    @Column(name = "nome_produto")
-    private String nomeProduto;
-
-    @Column(name = "marca_produto")
-    private String marcaProduto;
-
-    @Column(name = "quantidade")
-    private Integer quantidade;
+    @Column(name = "nome_fornecedor")
+    private String nomeFornecedor;
 
 }
